@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 Currently I am serving at the **Al-Miftah Islamic Boarding School**
-- 🌱 I’m currently learning **[javascript], C++**
+- 🌱 I’m currently learning **javascript, C++**
 - 😁😁😁
 ![hey bro](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMzbGNpNXVveThrOTB3NDltejR3dmFrcDBjMGRza3E0MGNhZTVvNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif)
